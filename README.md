@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/RodrigoCAndrade/RodrigoCAndrade/refs/heads/main/banner.png" alt="illustration of a computer" align="center">
+<div align="center">
+  <img with="75%" max-height="179px" src="https://raw.githubusercontent.com/RodrigoCAndrade/RodrigoCAndrade/refs/heads/main/banner.png" alt="illustration of a computer" align="center">
+</div>
 
 <h1 align="center">👾 Welcome, User!</h1>
 
@@ -8,7 +10,6 @@
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-40ba9b?logo=researchgate&logoColor=fff)](https://www.researchgate.net/profile/Rodrigo-Andrade-38)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rodrigo-de-carvalho-andrade)
-
 
 ## Projects
 
