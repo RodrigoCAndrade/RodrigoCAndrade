@@ -30,12 +30,11 @@ My name is <strong>Rodrigo</strong>! I am a 📡 Telecommunications Engineering 
         <p>
             The Karawara mission is an innovative project led by the Inatel CubeSat Design Team to revolutionize wildfire detection in hard-to-reach areas using nanosatellites and forest sensors. The project will be tested at the 3rd Brazilian Satellite Olympiad, providing a low-cost and highly efficient solution for forest preservation.
         </p>
-        <p align="right">
-          <img src="https://skillicons.dev/icons?i=git,c,cpp,rust,matlab,raspberrypi" alt="Project Technologies"/>
-        </p>
+        <a align="right" href="https://skillicons.dev/">
+          <img src="https://skillicons.dev/icons?i=git,c,cpp,matlab,raspberrypi" alt="Project Technologies"/>
+        </a>
     </div>
 </div>
-
 <hr/>
 
 <div>
@@ -44,11 +43,28 @@ My name is <strong>Rodrigo</strong>! I am a 📡 Telecommunications Engineering 
         <h3>WanderLust Mission</h3>
         <p>📍 Inatel CubeSat Design Team • 👥 <strong>Member</strong></p>
         <p>
-            The WanderLust mission is a project focused on remote monitoring of water bodies at risk of flooding or drought, using nanosatellites equipped with infrared cameras and embedded image segmentation algorithms. The project aims to provide a low-cost and rapidly deployable solution for flood control, to be tested at the 3rd Brazilian Satellite Olympiad.
+            The WanderLust mission uses nanosatellites with infrared cameras and image segmentation to remotely monitor water bodies at flood or drought risk, offering a low-cost, rapid-response solution to be tested at the 3rd Brazilian Satellite Olympiad.
         </p>
+        <a href="https://skillicons.dev/">
+          <img src="https://skillicons.dev/icons?i=git,c,cpp,python,raspberrypi" alt="Project Technologies"/>
+        </a>
+    </div>
+</div>
+<br/>
+<br/>
+<hr/>
+
+<div>
+    <a href="https://github.com/RodrigoCAndrade/BookMatch/"><img align="left" height="176px" alt="BookMatch Project Logo" src="https://raw.githubusercontent.com/RodrigoCAndrade/BookMatch/refs/heads/main/assets/logo_app.png"/></a>
+    <div>
+        <h3><a href="https://github.com/RodrigoCAndrade/BookMatch/">BookMatch</a></h3>
+        <p>📍 Inatel • 👥 <strong>Member</strong></p>
         <p>
-          <img align="right" src="https://skillicons.dev/icons?i=git,c,cpp,python,raspberrypi" alt="Project Technologies"/>
+            BookMatch is a book recommendation system developed for the C02 course that analyzes user preferences and reading history to suggest personalized titles, combining algorithms and data structures in a practical academic project.
         </p>
+        <a href="https://skillicons.dev/">
+          <img src="https://skillicons.dev/icons?i=git,cpp,cmake" alt="Project Technologies"/>
+        </a>
     </div>
 </div>
 
@@ -83,11 +99,15 @@ My name is <strong>Rodrigo</strong>! I am a 📡 Telecommunications Engineering 
         <p>
           Areas of Interest: 🛰️ Satellites • 🚀 Rockets • 📡 Space Communications • 🌌 Interplanetary Missions • 🤖 A.I.
         </p>
-        <div align="left">
-          <p>Disciplines repository:</p>
-          <a href="https://github.com/RodrigoCAndrade/C02" target="_blank"><img alt="Repository Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCAndrade&repo=C02"/></a>
-        </div>
     </div>
+</div>
+<br/>
+<br/>
+<br/>
+<div align="left">
+          <p><strong>• Disciplines repository:</strong></p>
+          <a href="https://github.com/RodrigoCAndrade/C02" target="_blank"><img alt="Repository Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCAndrade&repo=C02"/></a>
+          <a href="https://github.com/RodrigoCAndrade/BookMatch" target="_blank"><img alt="Repository Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCAndrade&repo=BookMatch"/></a>
 </div>
 
 <br/>
