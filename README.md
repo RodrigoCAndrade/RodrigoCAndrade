@@ -97,17 +97,11 @@ My name is <strong>Rodrigo</strong>! I am a 📡 Telecommunications Engineering 
         <h3>Instituto Nacional de Telecomunicações</h3>
         <p>⏳ 2025 until 2030 • 🎓 <strong>Telecommunications Engineering</strong></p>
         <p>
-          Areas of Interest: 🛰️ Satellites • 🚀 Rockets • 📡 Space Communications • 🌌 Interplanetary Missions • 🤖 A.I.
+          <strong>Areas of Interest:</strong>
+          </br>
+           🛰️ Satellites • 🌱 Interplanetary Missions • 📡 Space Communications • 🤖 A.I
         </p>
     </div>
-</div>
-<br/>
-<br/>
-<br/>
-<div align="left">
-          <p><strong>• Disciplines repository:</strong></p>
-          <a href="https://github.com/RodrigoCAndrade/C02" target="_blank"><img alt="Repository Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCAndrade&repo=C02"/></a>
-          <a href="https://github.com/RodrigoCAndrade/BookMatch" target="_blank"><img alt="Repository Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCAndrade&repo=BookMatch"/></a>
 </div>
 
 <br/>
