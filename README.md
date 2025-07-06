@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1><img height="64px" alt="Rocket Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.webp"/> Welcome, Human!</h1>
+  <h1><img style="height:64px;" height="64px" alt="Rocket Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.webp"/> Welcome, Human!</h1>
 </div>
 
 <p>
@@ -13,17 +13,17 @@ My name is <strong>Rodrigo</strong>! I am a 📡 Telecommunications Engineering 
 <br/>
 
 <div align="center">
-  <img height="176px" alt="Badge 1" src="https://i.imgur.com/YSaSTuO.png"/>
-  <img height="176px" alt="Badge 2" src="https://i.imgur.com/5wkIT6E.png"/>
-  <img height="176px" alt="Badge 3" src="https://i.imgur.com/K0a3JJA.png"/>
+  <img style="height:176px;" height="176px" alt="Badge 1" src="https://i.imgur.com/YSaSTuO.png"/>
+  <img style="height:176px;"  height="176px" alt="Badge 2" src="https://i.imgur.com/5wkIT6E.png"/>
+  <img style="height:176px;"  height="176px" alt="Badge 3" src="https://i.imgur.com/K0a3JJA.png"/>
 </div>
 
 <div align="left">
-  <h2><img height="32px" alt="Light Bulb Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp"/> My Projects</h2>
+  <h2><img style="height:32px;"  height="32px" alt="Light Bulb Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp"/> My Projects</h2>
 </div>
 
 <div>
-    <a href="#"><img align="left" height="176px" alt="Karawara Project Logo" src="https://i.imgur.com/12ZovCe.png"/></a>
+    <a href="#"><img align="left" style="height:176px;"  height="176px" alt="Karawara Project Logo" src="https://i.imgur.com/12ZovCe.png"/></a>
     <div>
         <h3>Karawara Mission</h3>
         <p>📍 Inatel CubeSat Design Team • 🎖️ <strong>Team Leader</strong></p>
@@ -38,7 +38,7 @@ My name is <strong>Rodrigo</strong>! I am a 📡 Telecommunications Engineering 
 <hr/>
 
 <div>
-    <a href="#"><img align="left" height="176px" alt="WanderLust Project Logo" src="https://i.imgur.com/kAoDFiL.png"/></a>
+    <a href="#"><img align="left" style="height:176px;"  height="176px" alt="WanderLust Project Logo" src="https://i.imgur.com/kAoDFiL.png"/></a>
     <div>
         <h3>WanderLust Mission</h3>
         <p>📍 Inatel CubeSat Design Team • 👥 <strong>Member</strong></p>
@@ -55,7 +55,7 @@ My name is <strong>Rodrigo</strong>! I am a 📡 Telecommunications Engineering 
 <hr/>
 
 <div>
-    <a href="https://github.com/RodrigoCAndrade/BookMatch/"><img align="left" height="176px" alt="BookMatch Project Logo" src="https://raw.githubusercontent.com/RodrigoCAndrade/BookMatch/refs/heads/main/assets/logo_app.png"/></a>
+    <a href="https://github.com/RodrigoCAndrade/BookMatch/"><img align="left" style="height:176px;" height="176px" alt="BookMatch Project Logo" src="https://raw.githubusercontent.com/RodrigoCAndrade/BookMatch/refs/heads/main/assets/logo_app.png"/></a>
     <div>
         <h3><a href="https://github.com/RodrigoCAndrade/BookMatch/">BookMatch</a></h3>
         <p>📍 Inatel • 👥 <strong>Member</strong></p>
@@ -71,11 +71,11 @@ My name is <strong>Rodrigo</strong>! I am a 📡 Telecommunications Engineering 
 <br/>
 
 <div align="left">
-  <h2><img height="32px" alt="Trophy Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa8f/512.webp"/> Experiences</h2>
+  <h2><img style="height:32px;"  height="32px" alt="Trophy Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa8f/512.webp"/> Experiences</h2>
 </div>
 
 <div>
-    <a href="https://inatel.br/csilab/teams/cubesat-design-team" target="_blank"><img align="left" height="176px" alt="ICDT Team Logo" src="https://avatars.githubusercontent.com/u/129970673?s=200&v=4"/></a>
+    <a href="https://inatel.br/csilab/teams/cubesat-design-team" target="_blank"><img align="left" style="height:176px;" height="176px" alt="ICDT Team Logo" src="https://i.imgur.com/Mq8RRIP.png"/></a>
     <div>
         <h3>Inatel CubeSat Design Team</h3>
         <p>⏳ 2025 until now • 🧪 <strong>Undergraduate Research Intern</strong></p>
@@ -88,11 +88,11 @@ My name is <strong>Rodrigo</strong>! I am a 📡 Telecommunications Engineering 
 <br/>
 
 <div align="left">
-  <h2><img height="32px" alt="Owl Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.webp"/> Education</h2>
+  <h2><img style="height:32px;"  height="32px" alt="Owl Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.webp"/> Education</h2>
 </div>
 
 <div>
-    <a href="https://inatel.br/" target="_blank"><img align="left" height="176px" alt="Inatel Logo" src="https://i.imgur.com/hPsvCYI.png"/></a>
+    <a href="https://inatel.br/" target="_blank"><img align="left" style="height:176px;" height="176px" alt="Inatel Logo" src="https://i.imgur.com/hPsvCYI.png"/></a>
     <div>
         <h3>Instituto Nacional de Telecomunicações</h3>
         <p>⏳ 2025 until 2030 • 🎓 <strong>Telecommunications Engineering</strong></p>
@@ -107,7 +107,7 @@ My name is <strong>Rodrigo</strong>! I am a 📡 Telecommunications Engineering 
 <br/>
 
 <div align="center">
-  <h2><img height="32px" alt="Chicken Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f423/512.webp"/> More about me</h2>
+  <h2><img style="height:32px;"  height="32px" alt="Chicken Emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f423/512.webp"/> More about me</h2>
 </div>
 
 <div align="center">
