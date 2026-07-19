@@ -25,13 +25,13 @@
 
 <!-- Project 1: TET Module -->
 <div>
-  <a href="#">
+  <a href="https://github.com/ICDT-Inatel-Cubesat-Design-Team/TET-Module">
     <img align="left" width="190" src="https://framerusercontent.com/images/gQzsnBLItEpAYbet0852l5Z7I.png" alt="TET Module Logo" style="margin-right: 30px; margin-bottom: 15px;" />
   </a>
   <h3>TET Module</h3>
   <p>An advanced Telemetry, Tracking, and Command (TT&C) RF module engineered for CubeSats. Designed to ensure robust data transmission, power efficiency, and reliable deep-space communications in harsh orbital environments.</p>
   
-  <a href="#">
+  <a href="https://github.com/ICDT-Inatel-Cubesat-Design-Team/TET-Module">
     <img src="https://img.shields.io/badge/Explore_Repository-050505?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
   </a>
 </div>
@@ -41,7 +41,7 @@
 
 <!-- Project 2: S-Band Antenna -->
 <div>
-  <a href="https://github.com/ICDT-Inatel-Cubesat-Design-Team/TET-Module">
+  <a href="https://github.com/ICDT-Inatel-Cubesat-Design-Team/S-Band-Antenna">
     <img align="left" width="190" src="https://framerusercontent.com/images/xMC6Xyu9qcoGLE66pgnfkAVGs.png" alt="S-Band Antenna Logo" style="margin-right: 30px; margin-bottom: 15px;" />
   </a>
   <h3>S-Band Antenna</h3>
