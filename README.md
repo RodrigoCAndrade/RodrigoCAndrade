@@ -8,12 +8,6 @@
 
 <br>
 
-<div align="center">
-  <p><i>"Engineering the communication infrastructure that connects us to space."</i></p>
-</div>
-
-<br>
-
 <p>I specialize in the end-to-end development of advanced RF systems and compact antennas for CubeSats and deep-space missions, ensuring reliable data transmission in the most demanding orbital environments. Currently pursuing a degree in Telecommunications Engineering at Inatel, I bridge the gap between theoretical research and cutting-edge aerospace engineering.</p>
 <br>
 
@@ -23,7 +17,23 @@
 
 <br>
 
-<!-- Project 1: TET Module -->
+<!-- Project 1: LIONv3 -->
+<div>
+  <a href="https://github.com/RodrigoCAndrade/LIONv3-R">
+    <img align="left" width="190" src="https://raw.githubusercontent.com/RodrigoCAndrade/LIONv3-R/refs/heads/main/mechanics/3d_exports/PCB-Front.png" alt="LIONv3-R Render" style="margin-right: 30px; margin-bottom: 15px;" />
+  </a>
+  <h3>LIONv3-R <img src="https://img.shields.io/badge/NEW-ffa502" /></h3>
+  <p>The LIONv3-R is an IoT and Direct-to-Satellite board powered by the ESP32-C6, combining local Wi-Fi, Zigbee, and Thread networks with high-density LR-FHSS connectivity for scalable global tracking and telemetry.</p>
+  
+  <a href="https://github.com/RodrigoCAndrade/LIONv3-R">
+    <img src="https://img.shields.io/badge/Explore_Repository-050505?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+  </a>
+</div>
+
+<br clear="left"/>
+<br><br>
+
+<!-- Project 2: TET Module -->
 <div>
   <a href="https://github.com/ICDT-Inatel-Cubesat-Design-Team/TET-Module">
     <img align="left" width="190" src="https://framerusercontent.com/images/gQzsnBLItEpAYbet0852l5Z7I.png" alt="TET Module Logo" style="margin-right: 30px; margin-bottom: 15px;" />
@@ -39,7 +49,7 @@
 <br clear="left"/>
 <br><br>
 
-<!-- Project 2: S-Band Antenna -->
+<!-- Project 3: S-Band Antenna -->
 <div>
   <a href="https://github.com/ICDT-Inatel-Cubesat-Design-Team/S-Band-Antenna">
     <img align="left" width="190" src="https://framerusercontent.com/images/xMC6Xyu9qcoGLE66pgnfkAVGs.png" alt="S-Band Antenna Logo" style="margin-right: 30px; margin-bottom: 15px;" />
