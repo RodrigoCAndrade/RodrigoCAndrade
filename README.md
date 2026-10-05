@@ -33,6 +33,22 @@
 <br clear="left"/>
 <br><br>
 
+<!-- Project 0.5: LIONv3-Mini -->
+<div>
+  <a href="https://github.com/RodrigoCAndrade/LIONv3-Mini">
+    <img align="left" width="190" src="https://raw.githubusercontent.com/RodrigoCAndrade/LIONv3-Mini/refs/heads/main/mechanics/3d_exports/PCB-Front.png" alt="LIONv3-Mini Render" style="margin-right: 30px; margin-bottom: 15px;" />
+  </a>
+  <h3>LIONv3-Mini <img src="https://img.shields.io/badge/NEW-ffa502" /></h3>
+  <p>The LIONv3-Mini is a miniaturized version of the LIONv3-R, without an onboard LoRa PCB antenna. Built around the ESP32-C6 with 16 MB of external flash, it offers local connectivity over Wi-Fi, Zigbee and Thread, plus LoRa and LR-FHSS for reliable Direct-to-Satellite (DtS) or terrestrial uplinks from remote sites at higher device densities than conventional LoRa. It is a scalable platform for telemetry, global asset tracking and remote sensing.</p>
+  
+  <a href="https://github.com/RodrigoCAndrade/LIONv3-Mini">
+    <img src="https://img.shields.io/badge/Explore_Repository-050505?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+  </a>
+</div>
+
+<br clear="left"/>
+<br><br>
+
 <!-- Project 2: TET Module -->
 <div>
   <a href="https://github.com/ICDT-Inatel-Cubesat-Design-Team/TET-Module">
